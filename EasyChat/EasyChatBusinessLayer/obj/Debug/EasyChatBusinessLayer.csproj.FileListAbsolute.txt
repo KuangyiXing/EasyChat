@@ -1,0 +1,8 @@
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatBusinessLayer/bin/Debug/EasyChatBusinessLayer.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatBusinessLayer/bin/Debug/EasyChatBusinessLayer.pdb
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatBusinessLayer/bin/Debug/EasyChatDataLayer.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatBusinessLayer/bin/Debug/EasyChatDataLayer.pdb
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatBusinessLayer/obj/Debug/EasyChatBusinessLayer.csprojResolveAssemblyReference.cache
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatBusinessLayer/obj/Debug/EasyChatBusinessLayer.csproj.CoreCompileInputs.cache
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatBusinessLayer/obj/Debug/EasyChatBusinessLayer.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatBusinessLayer/obj/Debug/EasyChatBusinessLayer.pdb

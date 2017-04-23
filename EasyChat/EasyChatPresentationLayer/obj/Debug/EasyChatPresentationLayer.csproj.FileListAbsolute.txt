@@ -1,0 +1,16 @@
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/EasyChatPresentationLayer.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/EasyChatPresentationLayer.pdb
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/EasyChatBusinessLayer.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/Newtonsoft.Json.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/System.Net.Http.Formatting.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/System.Web.Http.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/System.Web.Http.WebHost.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/EasyChatBusinessLayer.pdb
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/System.Net.Http.Formatting.xml
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/System.Web.Http.xml
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/System.Web.Http.WebHost.xml
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/bin/Newtonsoft.Json.xml
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/obj/Debug/EasyChatPresentationLayer.csprojResolveAssemblyReference.cache
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/obj/Debug/EasyChatPresentationLayer.csproj.CoreCompileInputs.cache
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/obj/Debug/EasyChatPresentationLayer.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatPresentationLayer/obj/Debug/EasyChatPresentationLayer.pdb

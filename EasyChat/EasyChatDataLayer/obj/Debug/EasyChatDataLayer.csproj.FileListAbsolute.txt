@@ -1,0 +1,5 @@
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatDataLayer/bin/Debug/EasyChatDataLayer.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatDataLayer/bin/Debug/EasyChatDataLayer.pdb
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatDataLayer/obj/Debug/EasyChatDataLayer.csproj.CoreCompileInputs.cache
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatDataLayer/obj/Debug/EasyChatDataLayer.dll
+/Users/Jasmine/Desktop/EasyChat/EasyChat/EasyChatDataLayer/obj/Debug/EasyChatDataLayer.pdb

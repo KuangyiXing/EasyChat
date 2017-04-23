@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyChat", "EasyChat\EasyChat.csproj", "{E4E43C01-AA55-4031-A477-A5240436391F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyChat.Tests", "EasyChat.Tests\EasyChat.Tests.csproj", "{A9B499D2-092C-4715-ABFD-6A756A50C43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyChatBusinessLayer", "EasyChatBusinessLayer\EasyChatBusinessLayer.csproj", "{0817E61A-F1D9-4CDD-B487-E49319012FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyChatDataLayer", "EasyChatDataLayer\EasyChatDataLayer.csproj", "{0E1B88D0-0479-491C-BD9C-C95E40B734B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyChatPresentationLayer", "EasyChatPresentationLayer\EasyChatPresentationLayer.csproj", "{C959480A-4E82-42B1-A5C3-AC181AA03E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyChatPresentationLayer.Tests", "EasyChatPresentationLayer.Tests\EasyChatPresentationLayer.Tests.csproj", "{06202F23-C4FC-4343-807D-C2E5BC611982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E43C01-AA55-4031-A477-A5240436391F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E43C01-AA55-4031-A477-A5240436391F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E43C01-AA55-4031-A477-A5240436391F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E43C01-AA55-4031-A477-A5240436391F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B499D2-092C-4715-ABFD-6A756A50C43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B499D2-092C-4715-ABFD-6A756A50C43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B499D2-092C-4715-ABFD-6A756A50C43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B499D2-092C-4715-ABFD-6A756A50C43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0817E61A-F1D9-4CDD-B487-E49319012FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0817E61A-F1D9-4CDD-B487-E49319012FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0817E61A-F1D9-4CDD-B487-E49319012FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0817E61A-F1D9-4CDD-B487-E49319012FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1B88D0-0479-491C-BD9C-C95E40B734B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1B88D0-0479-491C-BD9C-C95E40B734B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1B88D0-0479-491C-BD9C-C95E40B734B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1B88D0-0479-491C-BD9C-C95E40B734B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C959480A-4E82-42B1-A5C3-AC181AA03E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C959480A-4E82-42B1-A5C3-AC181AA03E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C959480A-4E82-42B1-A5C3-AC181AA03E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C959480A-4E82-42B1-A5C3-AC181AA03E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06202F23-C4FC-4343-807D-C2E5BC611982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06202F23-C4FC-4343-807D-C2E5BC611982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06202F23-C4FC-4343-807D-C2E5BC611982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06202F23-C4FC-4343-807D-C2E5BC611982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

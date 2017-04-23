@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{C959480A-4E82-42B1-A5C3-AC181AA03E7F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EasyChatPresentationLayer/Default.aspx">
+    <Files>
+      <File FileName="EasyChatBusinessLayer/MyClass.cs" Line="6" Column="14" />
+      <File FileName="EasyChatDataLayer/MyClass.cs" Line="9" Column="3" />
+      <File FileName="EasyChatPresentationLayer/Default.aspx" Line="14" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EasyChat" expanded="True">
+            <Node name="EasyChatBusinessLayer" expanded="True" />
+            <Node name="EasyChatDataLayer" expanded="True" />
+            <Node name="EasyChatPresentationLayer" expanded="True">
+              <Node name="Default.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="EasyChat" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>EasyChat/EasyChat.csproj</String>
+    <String>EasyChat.Tests/EasyChat.Tests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.EasyChatPresentationLayer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
